@@ -66,4 +66,4 @@ newgrp docker
 - Ensure Docker is running before using it.
 - Restart your system after adding your user to the `docker` group.
 
-Happy DevOps-ing! 🚀
+
